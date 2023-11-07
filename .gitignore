@@ -1,0 +1,33 @@
+# Directorios de construcción
+/target/
+/out/
+
+# Archivos generados por el IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+*.log
+/.idea
+
+# Dependencias de Maven
+/.mvn/
+*.lastUpdated
+
+# Archivos y directorios de Maven
+mvnw
+mvnw.cmd
+pom.xml
+
+# Archivos de configuración de Spring Boot
+application.properties
+application.yml
+
+# Archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
